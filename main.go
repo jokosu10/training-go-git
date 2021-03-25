@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("Hello Feature A2")
 }
 
+// function to print name
 func printMessage(name string) string {
 	var message = "Hallo " + name
 	return message
