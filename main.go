@@ -6,6 +6,7 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("Hello Feature A1")
 	fmt.Println(printMessage("Feature B"))
+	fmt.Println("Hello Feature A2")
 }
 
 func printMessage(name string) string {
