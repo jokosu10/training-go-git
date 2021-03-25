@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("Hello Feature B2")
 }
 
+// function to print name
 func printMessage(name string) string {
 	var message = "Hallo " + name
 	return message
